@@ -1,6 +1,8 @@
 .divisoria {
     background-image: url(../img/download\ \(1\).jpg)
     }
-#div{
-    background-color: blue;
+#div1{
+    margin: 10px;
+    padding: 10px;
+    border: 10px solid #000;
 }
